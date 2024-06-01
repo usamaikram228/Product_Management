@@ -1,0 +1,286 @@
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\appsettings.Development.json
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\appsettings.json
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\CRUD.staticwebassets.runtime.json
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\CRUD.exe
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\CRUD.deps.json
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\CRUD.runtimeconfig.json
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\CRUD.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\CRUD.pdb
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Azure.Core.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Azure.Identity.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Humanizer.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.CodeDom.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universty\Arbisoft\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.csproj.AssemblyReference.cache
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfoInputs.cache
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfo.cs
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.csproj.CoreCompileInputs.cache
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.RazorAssemblyInfo.cache
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.RazorAssemblyInfo.cs
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\staticwebassets.build.json
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\staticwebassets.development.json
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\staticwebassets\msbuild.CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD.props
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD.props
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD.props
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\scopedcss\bundle\CRUD.styles.css
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\scopedcss\projectbundle\CRUD.bundle.scp.css
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.csproj.Up2Date
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.dll
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\refint\CRUD.dll
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.pdb
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\CRUD.genruntimeconfig.cache
+D:\Universty\Arbisoft\CRUD\obj\Debug\net8.0\ref\CRUD.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\appsettings.Development.json
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\appsettings.json
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\CRUD.staticwebassets.runtime.json
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\CRUD.exe
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\CRUD.deps.json
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\CRUD.runtimeconfig.json
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\CRUD.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\CRUD.pdb
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Azure.Core.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Azure.Identity.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Humanizer.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.CodeDom.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Universty\Semester 8\CRUD\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.csproj.AssemblyReference.cache
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfoInputs.cache
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfo.cs
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.csproj.CoreCompileInputs.cache
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.RazorAssemblyInfo.cache
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.RazorAssemblyInfo.cs
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\staticwebassets.build.json
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\staticwebassets.development.json
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\staticwebassets\msbuild.CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD.props
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD.props
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD.props
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\scopedcss\bundle\CRUD.styles.css
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\scopedcss\projectbundle\CRUD.bundle.scp.css
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.csproj.Up2Date
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.dll
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\refint\CRUD.dll
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.pdb
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\CRUD.genruntimeconfig.cache
+D:\Universty\Semester 8\CRUD\obj\Debug\net8.0\ref\CRUD.dll

@@ -1,0 +1,34 @@
+﻿
+<link rel="stylesheet" href="~/css/users.css">
+<div class="dashboard-container">
+    <div class="dashboard-header">
+        <h2>Admins</h2>
+    </div>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>
+                    @if (user.UserName != "admin@gmail.com" && User.Identity.Name != user.UserName)
+                    {
+                        <form asp-controller="Admin" asp-action="RemoveAdminRole" method="post">
+                            <input type="hidden" name="userId" value="@user.Id" />
+                            <button type="submit" class="btn btn-danger">Remove Admin</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Admin" class="btn btn-primary">Go to Admin Dashboard</a>

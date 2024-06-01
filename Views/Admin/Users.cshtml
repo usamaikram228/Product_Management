@@ -1,0 +1,62 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject Microsoft.AspNetCore.Identity.UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "Admin-DashBoard";
+}
+<link href="~/css/users.css" rel="stylesheet" />
+<body>
+    <div class="dashboard-container">
+        <div class="dashboard-header">
+            <h2>Users Management</h2>
+        </div>
+   </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Username</th>
+                                <th>Actions</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var user in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        <a href="@Url.Action("UserProducts", "Admin", new { id = user.Id })">@user.UserName</a>
+                                    </td>
+                                    <td>
+                                        @if (!User.IsInRole("admin") && !await UserManager.IsInRoleAsync(user, "admin") )
+                                        {
+                                            <form asp-controller="Admin" asp-action="ChangeUserRoleToAdmin" method="post">
+                                                <input type="hidden" name="userId" value="@user.Id" />
+                                                <button type="submit" class="btn btn-primary">Make Admin</button>
+                                            </form>
+                                        }
+                                    </td>
+                                    <td>
+                                        @if (User.Identity.Name != user.UserName)
+                                        {
+                                            <form asp-controller="Admin" asp-action="DeleteUserAndProducts" method="post">
+                                                <input type="hidden" name="userId" value="@user.Id" />
+                                                <button type="submit" class="btn btn-danger">Delete User and Products</button>
+                                            </form>
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+   
+    <a href="/Admin" class="btn btn-primary">Go to Admin Dashboard</a>
+
+</body>

@@ -1,0 +1,31 @@
+﻿body {
+    background-color: #0e0e0e; 
+    color: #fff; 
+    font-family: Arial, sans-serif;
+}
+.dashboard-container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 20px;
+}
+
+.dashboard-header {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #555; 
+}
+.table {
+    background-color: #333;
+    margin-top: 40px;
+    border-color: #555;
+}
+thead {
+    background-color: #222;
+    color: white; 
+    font-weight: bold;
+}
+td {
+    color: white;
+}

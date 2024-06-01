@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "AddProduct";
+}
+ <link href="~/css/Signup.css" rel="stylesheet" />
+<body>
+    <div class="form-body">
+        <div class="row">
+            <div class="form-holder">
+                <div class="form-content">
+                    <div class="form-items">
+                        <h3>Add Product</h3>
+
+                        <form action="/products/AddedSuccessfully" method="post" enctype="multipart/form-data" class="requires-validation">
+                            <div class="col-md-12">
+                                <input class="form-control" type="text" name="Name" placeholder="Name" required>
+                                <div class="valid-feedback">Name field is valid!</div>
+                                <div class="invalid-feedback">Name field cannot be blank!</div>
+                            </div>
+                            <div class="col-md-12 my-3">
+                                <input class="form-control" type="text" name="Category" placeholder="Category" required>
+                                <div class="valid-feedback">Category field is valid!</div>
+                                <div class="invalid-feedback">Category field cannot be blank!</div>
+                            </div>
+                            <div class="col-md-12 my-3">
+                                <input class="form-control" type="text" name="Description" placeholder="Description">
+                                <div class="invalid-feedback">Name field cannot be blank!</div>
+
+                            </div>
+                            <div class="col-md-12 my-3">
+                                <input class="form-control" type="number" name="Price" placeholder="Price" required>
+                                <div class="valid-feedback">Price field is valid!</div>
+                                <div class="invalid-feedback">Price field cannot be blank!</div>
+                            </div>
+                            <div class="form-button mt-3">
+                                <label>Upload Image</label>
+                                <input class="form-control mb-3" type="file" name="ImageData" required>
+                                <button id="submit" type="submit" class="btn btn-primary">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        (function () {
+            'use strict'
+            const forms = document.querySelectorAll('.requires-validation')
+            Array.from(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault()
+                            event.stopPropagation()
+                        }
+
+                        form.classList.add('was-validated')
+                    }, false)
+                })
+        })()
+
+    </script>
+</body>
+
+

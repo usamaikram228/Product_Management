@@ -1,0 +1,65 @@
+﻿/* admin.css */
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    background-color: #0e0e0e; /* Set background color to a dark shade of gray */
+    color: #fff; /* Set text color to white */
+    font-family: Arial, sans-serif; /* Set font family */
+}
+
+
+.dashboard-container {
+    max-width: 1200px; /* Set max width for the container */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px;
+}
+.dashboard-header {
+    background-color: #333; /* Dark gray background for the header */
+    color: #fff; /* White text color for the header */
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #555; /* Add a border at the bottom */
+}
+
+    .dashboard-header h2 {
+        margin-bottom: 0; /* Remove margin at the bottom of the heading */
+    }
+
+/* Navigation styles */
+.dashboard-nav {
+    background-color: #222; /* Slightly lighter gray for navigation background */
+    padding: 10px;
+    text-align: center;
+}
+
+    .dashboard-nav a {
+        color: #fff; /* White text color for navigation links */
+        text-decoration: none;
+        margin: 0 10px; /* Add margin between navigation links */
+        font-size: 18px; /* Set font size */
+        transition: color 0.3s; /* Add transition effect for color change */
+    }
+
+        .dashboard-nav a:hover {
+            color: #ccc; /* Light gray color for hovered navigation links */
+        }
+
+/* Content styles */
+.dashboard-content {
+    padding: 20px; /* Add padding around the content */
+    background-color: #333; /* Dark gray background for the content */
+    border: 1px solid #555; /* Add border around the content */
+    border-radius: 5px; /* Add border radius */
+    margin-top: 20px; /* Add margin at the top */
+}
+
+    .dashboard-content p {
+        margin-bottom: 10px; /* Add margin at the bottom of paragraphs */
+    }

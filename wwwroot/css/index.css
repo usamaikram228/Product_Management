@@ -1,0 +1,63 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+:root {
+    --gradient: linear-gradient(to left top, #DD2476 10%, #FF512F 90%) !important;
+    --gradient2: linear-gradient(to left top, #DD2476 10%, #FFF 90%) !important;
+}
+*, body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    background: #111 !important;
+   
+}
+
+
+.card {
+    background: #222;
+    border: 1px solid #dd2476;
+    color: rgba(250, 250, 250, 0.8);
+    height: 100%;
+}
+.card .card-profile-img {
+    aspect-ratio: 5 / 3;
+    mix-blend-mode: color-dodge;
+    object-fit: cover;
+    object-position: center;
+}
+
+.button {
+    border: 2px solid;
+    border-image-slice: 1;
+    background: var(--gradient) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    border-image-source: var(--gradient) !important;
+    text-decoration: none;
+    transition: all .4s ease;
+}
+
+    .button:hover, .button:focus {
+        background: var(--gradient) !important;
+        -webkit-background-clip: none !important;
+        -webkit-text-fill-color: #fff !important;
+        /*border: 2px solid #fff !important;*/
+        box-shadow: #222 1px 0 10px;
+        text-decoration: none !important;
+    }
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}
+    .pagination .active {
+        text-decoration: none;
+        transition: all .4s ease;
+    }
+    
